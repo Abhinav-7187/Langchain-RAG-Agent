@@ -20,8 +20,4 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system using 
 - Implementing hybrid retrieval (combining dense and sparse vector search) for improved accuracy.
 - Deploying the solution as an API using FastAPI or Flask for seamless integration.
 
-## 📩 **Get in Touch**
-We welcome contributions and feedback! Feel free to connect or contribute to improve the project further.
-
-🎉 **Happy Coding!** 🎉
 
